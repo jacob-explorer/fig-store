@@ -98,12 +98,13 @@ body{
 .email{
     font-weight:bold;
     transform:translateX(-50%);
-    font-size:30px;
+    font-size:3vh;
     display:block;
     position:fixed;
     bottom:0;
     left:50%;
     color:white;
+    width:100%;
 }
 
 @keyframes pulse{
